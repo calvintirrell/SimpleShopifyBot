@@ -8,3 +8,7 @@ I made this over a weekend after watching some videos on making bots. This proje
 Then I had to go through and fix all the errors from those old tutorials since things have changed over the past one to three years.
 
 [Here is a video of the 'bot' running. The speed you see is exactly the speed of the bot with no video editing done. By comparison, most of the top bots complete the whole process in under 10 seconds since speed and actually getting the shoes you want are the top metrics by how bots are rated.](https://youtu.be/Tjl3IDnPF3g)
+
+Please note that this code and project won't be updated except for maybe a small occalsional update or tweak.
+
+This is because I'm starting a new full time job (next week!) and I'm going to be working on v0.2 of a 'shoe bot' as these are more generally called/described.
