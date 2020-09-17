@@ -3,8 +3,8 @@ A simple Shopify 'bot' with a basic user interface. Made with Python and Seleniu
 
 Compared to the top bots, mine is both very basic and way too slow to actually be used during 'prime time', i.e.: getting the latest coolest shoes.
 
-I made this over a weekend after watching some videos on how making bots. This project has been great since I have bought some nice sneakers in the past.
+I made this over a weekend after watching some videos on making bots. This project has been great since I have bought some nice sneakers in the past.
 
-Then I had to go through and fix all the errors from those old tutorials since things have changed over the two to three years.
+Then I had to go through and fix all the errors from those old tutorials since things have changed over the past one to three years.
 
 [Here is a video of the 'bot' running. The speed you see is exactly the speed of the bot with no video editing done. By comparison, most of the top bots complete the whole process in under 10 seconds since speed and actually getting the shoes you want are the top metrics by how bots are rated.](https://youtu.be/Tjl3IDnPF3g)
