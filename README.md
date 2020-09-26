@@ -11,4 +11,4 @@ Then I had to go through and fix all the errors from those old tutorials since t
 
 Please note that this code and project won't be updated except for maybe a small occasional update or tweak.
 
-This is because I'm starting a new full time job (9/22) and I'm going to be working on v0.2 of a 'shoe bot' as these are more generally called/described.
+This is because I'm starting a new full time job (9/22) and I'm going to try and make a v0.2 of the 'shoe bot.
