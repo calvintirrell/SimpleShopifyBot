@@ -10,5 +10,3 @@ I made this over a weekend after watching some videos on making bots. This proje
 Then I had to go through and fix all the errors from those old tutorials since things have changed over the past one to three years.
 
 Please note that this code and project won't be updated except for maybe a small occasional update or tweak.
-
-This is because I'm starting a new full time job (9/22) and I'm going to try and make a v0.2 of the 'shoe bot.
